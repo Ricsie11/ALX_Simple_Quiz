@@ -50,4 +50,4 @@ division.addEventListener("click", function(){
     const result = divide(number1, number2);
     document.getElementById('calculation-result').textContent = result;
 
-});
+})
